@@ -1,0 +1,63 @@
+{
+  animations: [
+    {
+      name: 'tableC',
+      path: 'sampledata/models/tableC.fbx',
+    },
+  ],
+  materials: [
+    {
+      name: 'Chair',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/models/tableC.fbx',
+    name: 'tableC',
+    recenter: 'root',
+    scale: 0.0041000000000000003,
+  },
+  version: '0.54:1',
+}
