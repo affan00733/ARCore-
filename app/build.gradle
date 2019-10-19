@@ -36,13 +36,10 @@ dependencies {
 }
 
 
-
-
 sceneform.asset('sampledata/models/table.fbx',
         'default',
         'sampledata/models/table.sfa',
         'src/main/res/raw/table')
-
 
 
 sceneform.asset('sampledata/models/a.fbx',
@@ -51,15 +48,10 @@ sceneform.asset('sampledata/models/a.fbx',
         'src/main/res/raw/a')
 
 
-
-
-
-
 sceneform.asset('sampledata/models/b.fbx',
         'default',
         'sampledata/models/b.sfa',
         'src/main/res/raw/b')
-
 
 
 sceneform.asset('sampledata/models/d.fbx',
@@ -86,11 +78,6 @@ sceneform.asset('sampledata/models/h.fbx',
         'default',
         'sampledata/models/h.sfa',
         'src/main/res/raw/h')
-
-
-
-
-
 
 
 sceneform.asset('sampledata/models/angel.fbx',
@@ -131,4 +118,3 @@ sceneform.asset('sampledata/models/bunk.fbx',
         'default',
         'sampledata/models/bunk.sfa',
         'src/main/res/raw/bunk')
-

@@ -12,89 +12,101 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"/>
 
-   <HorizontalScrollView
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content">
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
 
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
 
-       <LinearLayout
-           android:orientation="horizontal"
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/bear"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/drawer" />
 
-           <ImageView
-               android:id="@+id/bear"
-               android:src="@drawable/bear"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/cat"
-               android:src="@drawable/cat"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/cow"
-               android:src="@drawable/cow"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/dog"
-               android:src="@drawable/dog"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/elephant"
-               android:src="@drawable/elephant"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/ferret"
-               android:src="@drawable/ferret"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/hippopotamus"
-               android:src="@drawable/hippopotamus"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/horse"
-               android:src="@drawable/bear"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/koala_bear"
-               android:src="@drawable/koala_bear"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/lion"
-               android:src="@drawable/lion"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/reindeer"
-               android:src="@drawable/reindeer"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/wolverine"
-               android:src="@drawable/wolverine"
-               android:layout_width="100dp"
-               android:layout_height="wrap_content" />
-           <ImageView
-               android:id="@+id/kotla"
-               android:src="@drawable/koltuk2"
-               android:layout_width="100dp"
-               android:layout_height="100dp" />
-           <ImageView
-               android:id="@+id/table"
-               android:src="@drawable/table"
-               android:layout_width="100dp"
-               android:layout_height="100dp" />
+            <ImageView
+                android:id="@+id/cat"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/chair" />
 
-       </LinearLayout>
-   </HorizontalScrollView>
+            <ImageView
+                android:id="@+id/cow"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/bunk" />
+
+            <ImageView
+                android:id="@+id/dog"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/table" />
+
+            <ImageView
+                android:id="@+id/elephant"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/living" />
+
+            <ImageView
+                android:id="@+id/ferret"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/wordrobe" />
+
+            <ImageView
+                android:id="@+id/hippopotamus"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/show" />
+
+            <ImageView
+                android:id="@+id/horse"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/plant" />
+
+            <ImageView
+                android:id="@+id/koala_bear"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/statue" />
+
+            <ImageView
+                android:id="@+id/lion"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/dining" />
+
+            <ImageView
+                android:id="@+id/reindeer"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/stairs" />
+
+            <ImageView
+                android:id="@+id/wolverine"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/chair2" />
+
+            <ImageView
+                android:id="@+id/kotla"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/sofa" />
+
+            <ImageView
+                android:id="@+id/table"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/hologram" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
 
 </FrameLayout>

@@ -269,7 +269,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(bearRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Bear");
+            addName(anchorNode,bear,"Drawer");
         }
         if (selected == 2){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -277,7 +277,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(catRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Cat");
+            addName(anchorNode,bear,"Office Chair");
         }
         if (selected == 3){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -285,7 +285,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(cowRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Cow");
+            addName(anchorNode,bear,"Kids Bunk");
         }
         if (selected == 4){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -293,7 +293,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(dogRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Dog");
+            addName(anchorNode,bear,"Table");
         }
         if (selected == 5){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -301,7 +301,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(elephantRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Elephant");
+            addName(anchorNode,bear,"Living Room");
         }
         if (selected == 6){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -309,7 +309,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(ferretRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Ferret");
+            addName(anchorNode,bear,"Wordrobe");
         }
         if (selected == 7){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -317,7 +317,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(hippoRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Hippopotamus");
+            addName(anchorNode,bear,"Showpiece");
         }
         if (selected == 8){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -325,7 +325,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(hourseRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Horse");
+            addName(anchorNode,bear,"Plant Pot");
         }
         if (selected == 9){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -333,7 +333,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(koaloaRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Koaloa");
+            addName(anchorNode,bear,"Angle Statue");
         }
         if (selected == 10){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -341,7 +341,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(lionRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Lion");
+            addName(anchorNode,bear,"Dinning Table");
         }
         if (selected == 11){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -349,7 +349,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(reindeerRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Reindeer");
+            addName(anchorNode,bear,"Stairs");
         }
         if (selected == 12){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -357,7 +357,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(wolverineRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"Wolverine");
+            addName(anchorNode,bear,"Room Chair");
         }
         if (selected == 13){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -365,7 +365,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(kotlaRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"kotla");
+            addName(anchorNode,bear,"Sofa");
         }
         if (selected == 14){
             TransformableNode bear=new TransformableNode(arFragment.getTransformationSystem());
@@ -373,7 +373,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
             bear.setRenderable(tableRenderable);
             bear.select();
 
-            addName(anchorNode,bear,"table");
+            addName(anchorNode,bear,"Hologram");
         }
 
     }
