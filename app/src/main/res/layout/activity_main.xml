@@ -28,7 +28,6 @@
                android:src="@drawable/bear"
                android:layout_width="100dp"
                android:layout_height="wrap_content" />
-
            <ImageView
                android:id="@+id/cat"
                android:src="@drawable/cat"

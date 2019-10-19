@@ -38,87 +38,97 @@ dependencies {
 
 
 
-sceneform.asset('sampledata/models/fbxfountain.fbx',
-        'default',
-        'sampledata/models/fbxfountain.sfa',
-        'src/main/res/raw/fbxfountain')
-
-sceneform.asset('sampledata/models/pot.fbx',
-        'default',
-        'sampledata/models/pot.sfa',
-        'src/main/res/raw/pot')
-
-sceneform.asset('sampledata/models/ben.fbx',
-        'default',
-        'sampledata/models/ben.sfa',
-        'src/main/res/raw/ben')
-
-sceneform.asset('sampledata/models/bear.fbx',
-        'default',
-        'sampledata/models/bear.sfa',
-        'src/main/res/raw/bear')
-
-sceneform.asset('sampledata/models/cat.fbx',
-        'default',
-        'sampledata/models/cat.sfa',
-        'src/main/res/raw/cat')
-
-sceneform.asset('sampledata/models/cow.fbx',
-        'default',
-        'sampledata/models/cow.sfa',
-        'src/main/res/raw/cow')
-
-sceneform.asset('sampledata/models/dog.fbx',
-        'default',
-        'sampledata/models/dog.sfa',
-        'src/main/res/raw/dog')
-
-sceneform.asset('sampledata/models/elephant.fbx',
-        'default',
-        'sampledata/models/elephant.sfa',
-        'src/main/res/raw/elephant')
-
-sceneform.asset('sampledata/models/ferret.fbx',
-        'default',
-        'sampledata/models/ferret.sfa',
-        'src/main/res/raw/ferret')
-
-sceneform.asset('sampledata/models/hippopotamus.fbx',
-        'default',
-        'sampledata/models/hippopotamus.sfa',
-        'src/main/res/raw/hippopotamus')
-
-sceneform.asset('sampledata/models/horse.fbx',
-        'default',
-        'sampledata/models/horse.sfa',
-        'src/main/res/raw/horse')
-
-sceneform.asset('sampledata/models/koala_bear.fbx',
-        'default',
-        'sampledata/models/koala_bear.sfa',
-        'src/main/res/raw/koala_bear')
-
-sceneform.asset('sampledata/models/koltuk2.fbx',
-        'default',
-        'sampledata/models/koltuk2.sfa',
-        'src/main/res/raw/koltuk2')
-
-sceneform.asset('sampledata/models/lion.fbx',
-        'default',
-        'sampledata/models/lion.sfa',
-        'src/main/res/raw/lion')
-
-sceneform.asset('sampledata/models/reindeer.fbx',
-        'default',
-        'sampledata/models/reindeer.sfa',
-        'src/main/res/raw/reindeer')
-
 sceneform.asset('sampledata/models/table.fbx',
         'default',
         'sampledata/models/table.sfa',
         'src/main/res/raw/table')
 
-sceneform.asset('sampledata/models/wolverine.fbx',
+
+
+sceneform.asset('sampledata/models/a.fbx',
         'default',
-        'sampledata/models/wolverine.sfa',
-        'src/main/res/raw/wolverine')
+        'sampledata/models/a.sfa',
+        'src/main/res/raw/a')
+
+
+
+
+
+
+sceneform.asset('sampledata/models/b.fbx',
+        'default',
+        'sampledata/models/b.sfa',
+        'src/main/res/raw/b')
+
+
+
+sceneform.asset('sampledata/models/d.fbx',
+        'default',
+        'sampledata/models/d.sfa',
+        'src/main/res/raw/d')
+
+sceneform.asset('sampledata/models/e.fbx',
+        'default',
+        'sampledata/models/e.sfa',
+        'src/main/res/raw/e')
+
+sceneform.asset('sampledata/models/f.fbx',
+        'default',
+        'sampledata/models/f.sfa',
+        'src/main/res/raw/f')
+
+sceneform.asset('sampledata/models/g.fbx',
+        'default',
+        'sampledata/models/g.sfa',
+        'src/main/res/raw/g')
+
+sceneform.asset('sampledata/models/h.fbx',
+        'default',
+        'sampledata/models/h.sfa',
+        'src/main/res/raw/h')
+
+
+
+
+
+
+
+sceneform.asset('sampledata/models/angel.fbx',
+        'default',
+        'sampledata/models/angel.sfa',
+        'src/main/res/raw/angel')
+
+
+sceneform.asset('sampledata/models/tableC.fbx',
+        'default',
+        'sampledata/models/tablec.sfa',
+        'src/main/res/raw/tablec')
+
+sceneform.asset('sampledata/models/stairs.fbx',
+        'default',
+        'sampledata/models/stairs.sfa',
+        'src/main/res/raw/stairs')
+
+
+sceneform.asset('sampledata/models/sofa.fbx',
+        'default',
+        'sampledata/models/sofa.sfa',
+        'src/main/res/raw/sofa')
+
+
+sceneform.asset('sampledata/models/holo.fbx',
+        'default',
+        'sampledata/models/holo.sfa',
+        'src/main/res/raw/holo')
+
+sceneform.asset('sampledata/models/chair.fbx',
+        'default',
+        'sampledata/models/chair.sfa',
+        'src/main/res/raw/chair')
+
+
+sceneform.asset('sampledata/models/bunk.fbx',
+        'default',
+        'sampledata/models/bunk.sfa',
+        'src/main/res/raw/bunk')
+

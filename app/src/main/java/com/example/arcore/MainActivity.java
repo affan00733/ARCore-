@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
 
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.bear)
+                .setSource(this,R.raw.a)
                 .build().thenAccept(renderable -> bearRenderable = renderable)
                 .exceptionally(
                         throwable ->{
@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.bear)
+                .setSource(this,R.raw.a)
                 .build().thenAccept(renderable -> bearRenderable = renderable)
                 .exceptionally(
                         throwable ->{
@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.cat)
+                .setSource(this,R.raw.b)
                 .build().thenAccept(renderable -> catRenderable = renderable)
                 .exceptionally(
                         throwable ->{
@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.cow)
+                .setSource(this,R.raw.bunk)
                 .build().thenAccept(renderable -> cowRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.dog)
+                .setSource(this,R.raw.d)
                 .build().thenAccept(renderable -> dogRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
 
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.elephant)
+                .setSource(this,R.raw.e)
                 .build().thenAccept(renderable -> elephantRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -163,7 +163,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.ferret)
+                .setSource(this,R.raw.f)
                 .build().thenAccept(renderable -> ferretRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -174,7 +174,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.hippopotamus)
+                .setSource(this,R.raw.g)
                 .build().thenAccept(renderable -> hippoRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -185,7 +185,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.horse)
+                .setSource(this,R.raw.h)
                 .build().thenAccept(renderable -> hourseRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -196,7 +196,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.koala_bear)
+                .setSource(this,R.raw.angel)
                 .build().thenAccept(renderable -> koaloaRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -207,7 +207,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.lion)
+                .setSource(this,R.raw.tablec)
                 .build().thenAccept(renderable -> lionRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -218,7 +218,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.reindeer)
+                .setSource(this,R.raw.stairs)
                 .build().thenAccept(renderable -> reindeerRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -230,7 +230,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
 
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.wolverine)
+                .setSource(this,R.raw.chair)
                 .build().thenAccept(renderable -> wolverineRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -240,7 +240,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
 
                 );
         ModelRenderable.builder()
-                .setSource(this,R.raw.ben)
+                .setSource(this,R.raw.sofa)
                 .build().thenAccept(renderable -> kotlaRenderable= renderable)
                 .exceptionally(
                         throwable ->{
@@ -251,7 +251,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
                 );
 
         ModelRenderable.builder()
-                .setSource(this,R.raw.table)
+                .setSource(this,R.raw.holo)
                 .build().thenAccept(renderable -> tableRenderable= renderable)
                 .exceptionally(
                         throwable ->{
